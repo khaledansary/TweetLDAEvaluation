@@ -1,0 +1,2 @@
+TotalLogLikeliHood,iTotalWords,Perplexity
+51.29433639838821,10,168.9214205848417
